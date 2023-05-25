@@ -8,8 +8,10 @@
 <br>
 [https://codershiyar.github.io/embedded-powerbi]
 
-| Screenshot of dashboard in desktop web brower |
+| Screenshot of dashboard in desktop web brower  |
+|:---------------------:|
 | ![Screenshot of dashboard in desktop web brower ](./files/Capture.PNG) |
+
 
 | Mobile Dashboard Screenshot | Laptop Dashboard Screenshot |
 |:--------------------------:|:--------------------------:|
