@@ -6,9 +6,9 @@
 [https://youtube.com/codershiyar]
 
 ![Screenshot of dashboard in desktop web brower ](./files/Capture.PNG)
-![Screenshot of dashboard in mobile ](./files/Capture2.PNG)(./files/Capture3.PNG)
-<!-- ![Screenshot of dashboard in laptop] -->
-
+| Mobile Dashboard Screenshot | Laptop Dashboard Screenshot |
+|:--------------------------:|:--------------------------:|
+| ![Screenshot of dashboard in mobile](./files/Capture2.PNG) | ![Screenshot of dashboard in laptop](./files/Capture3.PNG) |
 ## Dashboard link
 <br>
 [https://codershiyar.github.io/embedded-powerbi]
