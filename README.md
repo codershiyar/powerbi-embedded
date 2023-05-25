@@ -6,7 +6,7 @@
 [https://youtube.com/codershiyar]
 ## Dashboard link
 <br>
-[https://codershiyar.github.io/embedded-powerbi]
+[https://codershiyar.github.io/powerbi-embedded]
 
 | Screenshot of dashboard in desktop web brower  |
 |:---------------------:|
