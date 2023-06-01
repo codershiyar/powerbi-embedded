@@ -7,7 +7,7 @@ import Login  from './Login';
 const WelcomeScreen = () => {
   return (
     <div>
-      <Header title="Welcome Manager" />
+      <Header title="Welcome Manager" login={true} />
       <Main />
     </div>
   );
@@ -17,7 +17,7 @@ const App = () => {
   const [loginStatus, setLoginStatus] = useState(false);
   return (
     <>
-      {loginStatus ? <WelcomeScreen />: <> <Header title="Login" /> <Login setLoginStatus={setLoginStatus} /> </>}
+      {loginStatus ? <WelcomeScreen />: <> <Header title="Login"  login={false}/> <Login setLoginStatus={setLoginStatus} /> </>}
     </>
   );
 };

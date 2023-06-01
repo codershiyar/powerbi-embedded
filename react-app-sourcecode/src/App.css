@@ -10,3 +10,10 @@ nav{
 #LoginBox{
   max-width: 720px;
 }
+
+#Logout{
+  height: 43px;
+  position: absolute;
+  left: 94%;
+  top: 20%;
+}
