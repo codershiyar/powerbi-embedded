@@ -9,7 +9,7 @@
 Here is a list of dashboard links for Power BI Embedded:
 
 - Using only HTML & CSS (without login page): [https://codershiyar.github.io/powerbi-embedded](https://codershiyar.github.io/powerbi-embedded)
-- Using React JS (With login page): [https://codershiyar.github.io/powerbi-embedded](https://codershiyar.github.io/powerbi-embedded)
+- Using React JS (With login page): [https://codershiyar.github.io/powerbi-embedded/react-app](https://codershiyar.github.io/powerbi-embedded/react-app)
 - Username: Manager, Password: 1234
 
  
