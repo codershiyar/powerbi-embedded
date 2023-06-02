@@ -1,7 +1,7 @@
 main{
   max-width: 100%;
   padding: 1% 0% 0%;
-  height: calc(100vh - 10px)
+  height: calc(100vh - 80px)
 }
 iframe{
   width: 100%;
