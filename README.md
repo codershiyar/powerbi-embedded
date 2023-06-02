@@ -5,9 +5,10 @@
 <br>
 [https://youtube.com/codershiyar]
 ## Dashboard link
-<br>
-[https://codershiyar.github.io/powerbi-embedded]
-
+- Using only HTML & CSS (without login page) [https://codershiyar.github.io/powerbi-embedded]
+- Using React JS (With login page) [https://codershiyar.github.io/powerbi-embedded]
+- Username: Manager, Password: 1234
+ 
 | Screenshot of dashboard in desktop web brower  |
 |:---------------------:|
 | ![Screenshot of dashboard in desktop web brower ](./files/Capture.PNG) |
