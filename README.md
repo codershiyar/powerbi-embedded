@@ -6,9 +6,12 @@
 [https://youtube.com/codershiyar]
 <br>
 ## Dashboard link
-- Using only HTML & CSS (without login page) [https://codershiyar.github.io/powerbi-embedded]
-- Using React JS (With login page) [https://codershiyar.github.io/powerbi-embedded]
+Here is a list of dashboard links for Power BI Embedded:
+
+- Using only HTML & CSS (without login page): [https://codershiyar.github.io/powerbi-embedded](https://codershiyar.github.io/powerbi-embedded)
+- Using React JS (With login page): [https://codershiyar.github.io/powerbi-embedded](https://codershiyar.github.io/powerbi-embedded)
 - Username: Manager, Password: 1234
+
  
 | Screenshot of dashboard in desktop web brower  |
 |:---------------------:|
